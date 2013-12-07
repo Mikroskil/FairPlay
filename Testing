@@ -2,6 +2,650 @@
 <head>
 </head>
 <body>
+ Monster Hunter Freedom Unite
+
+  ******O--------------------------------------------------------------O******
+  |     |                                                              |     |
+  |     |          FFFFFF EEEEEE LL     YY  YY NNN   NN EEEEEE         |     |
+  |     |          FFFFF  EEEEEE LL     YY  YY NNN   NN EEEEEE         |     |
+  |     |          FF     EE     LL      Y  Y  NN N  NN EE             |     |
+  |     |          FFFF   EEEE   LL       YY   NN N  NN EEEE           |     |
+  |     |          FF     EEEE   LL       YY   NN  N NN EEEE           |     |
+  |     |          FF     EE     LL       YY   NN  N NN EE             |     |
+  |     |          FF     EEEEEE LLLLLL   YY   NN   NNN EEEEEE         |     |
+  |     |          FF     EEEEEE LLLLLL   YY   NN    NN EEEEEE         |     |
+  |     |                                                              |     |
+  |     |                   CCCCC HH  HH EEEEEE FFFFFF                 |     |
+  |     |                  CCCCC  HH  HH EEEEEE FFFFF                  |     |
+  |     |                  CC     HH  HH EE     FF                     |     |
+  |     |                  CC     HHHHHH EEEE   FFFF                   |     |
+  |     |                  CC     HHHHHH EEEE   FF                     |     |
+  |     |                  CC     HH  HH EE     FF                     |     |
+  |     |                  CCCCC  HH  HH EEEEEE FF                     |     |
+  |     |                   CCCCC HH  HH EEEEEE FF                     |     |
+  |     |                                                              |     |
+  |     |                   FFFFFF    AAA      QQQ                     |     |
+  |     |                   FFFFF     AAA     QQ  QQ                   |     |
+  |     |                   FF       AA AA   QQ    QQ                  |     |
+  |     |                   FFFF     AA AA   QQ    QQ                  |     |
+  |     |                   FF      AA   AA  QQ    QQ                  |     |
+  |     |                   FF      AAAAAAA  QQ QQ QQ                  |     |
+  |     |                   FF     AA     AA  Q   QQ                   |     |
+  |     |                   FF     AA     AA   QQQ QQ                  |     |
+  |     |                                                              |     |
+  ******O--------------------------------------------------------------O******
+
+                 +-------------------------------------+
+                 |Author   : Steven Bolin              |
+                 |           VGProdigy (GameFAQ)       |
+                 |                                     |
+                 |E-mail   : palrappy1@yahoo.com       |
+                 |                                     |
+                 |Version  : 1.5                       |
+                 |                                     |
+                 |Platform : PlayStation Portable (PSP)|
+                 +-------------------------------------+
+
+NOTICE: This is the exact same guide that's up regarding Freedom 2.  The same
+combinations apply in Unite, so I thought I'd submit this to Unite's FAQ page
+as well.
+
+            ***o---------------o***
+            |  |               |  |
+            |  |  Purpose of   |  |
+            |  |  this guide   |  |
+            |  |               |  |
+            ***o---------------o***
+
+"Is Meat and Fruit going to give me buffs, or kill my Health?"
+
+Did that last sentence sound familiar?  I don't know about everyone else, but 
+I, personally, am getting sick and tired of guessing what does what every time 
+I want some buffs in the kitchen.  I decided that it's time for someone to 
+buckle down and do what no one else wants to do: document every single combi-
+nation of every food type with every amount of kitties you can have in your 
+kitchen.  Everyone knew it NEEDED to be done, so I decided to pick up the 
+slack.  In other words, the purpose of this guide is to concisely inform you of
+exactly what all the combinations do with exact numbers, so that you can decide
+which you want, and which you don't, regardless of how far in the game you are.
+
+Additionally, due to recent e-mails that I have been getting, it seems         
+necessary to add another section to this FAQ about the specifics of the Felyne
+Chefs.  So, after the section regarding the ingredient combinations you will
+find a relatively brief FAQ on the basics of what the Chefs' stats exactly
+mean, what they affect, etc.
+
+The second half of this FAQ will not be for everyone.  In fact, newbs will find
+it expedient; vets will find it extraneous.  On the other hand, if you're
+confused about something the Felyne Chef stats do, please check that half of
+the FAQ before e-mailing me to ensure that your question hasn't already been 
+answered.  Thank you.
+
+            ***o---------------o***
+            |  |               |  |
+            |  |     Notes     |  |
+            |  |               |  |
+            ***o---------------o***
+
+Despite how badly I would love to always give you exact numbers with every-
+thing, that's not always an option.  This is one of those cases.  I can only
+give you estimates with the attack boosts.
+
+Small Attack Boost = +1~3% Base Attack
+Large Attack Boost = +3~5% Base Attack
+
+These are just early findings, I don't know if the Attack boost is based on a
+percentage, but I know it's not a numerical value for each weapon type, as 
+I've switched out several different weapons of the same type, and seen them   
+each get differing attack boosts.  This leads me to conclude that the boost is
+a percentage.  I've made note of the rough percentage of--give or take--the 
+boost, and given it a name I felt appropriate given the size of the boost.
+Some attack boosts were bigger than others, I noticed, but remember that the
+words "Small" and "Large" are relative, so take it with a grain of salt.
+Again, if you notice that I have made an obvious mistake somewhere, or if you
+find the exact formula for the attack boost, feel free to let me know at my
+personal e-mail, and I will be sure to include you in the credits.  This is
+my first FAQ, so I won't ignore a little constructive criticism either.
+
+
+            ***o---------------o***
+            |  |               |  |
+            |  |   Table of    |  |
+            |  |   Contents    |  |
+            |  |               |  |
+            ***o---------------o***
+
++-----------------------------+
+|                             |
+|  Ingredient Combinations    |
+|                             |
+|One Felyne  ......... -I-    |
+|                             |
+|Two Felynes ......... -II-   |
+|                             |
+|Three Felynes ....... -III-  |
+|                             |
+|Four Felynes ........ -IV-   |
+|                             |
+|Five Felynes ........ -V-    |
+|                             |
+|-----------------------------|
+|                             |
+|   Felyne Chef Specifics     |
+|                             |
+|Chef Level .......... -VI-   |
+|                             |
+|Meat/Fish Cooking ... -VII-  |
+|                             |
+|Felyne Whim skills .. -VIII- |
+|                             |
++-----------------------------+
+
++=============================================================================+
+|                                                                             |
+|                           Ingredient Combinations                           |
+|                                                                             |
++-----------------------------------------------------------------------------+
+
+           ***o--------------o***
+           |  |     -I-      |  |
+           |  |  One Felyne  |  |
+           |  |              |  |
+           ***o--------------o***
+
+
++----------------+----------+
+|Food Name       |Food Type |
++----------------+----------+
+|Meat Scraps     |Meat      |
+|Rubbery Jerky   |Meat      |
+|Tough Meat      |Meat      |
+|Chunky Rice     |Bran      |
+|Furahiya Wheat  |Bran      |
+|Mixed Beans     |Bran      |
+|Bone Taco       |Fish      |
+|Clamchip        |Fish      |
+|Scalefish       |Fish      |
+|Oily Raisins    |Fruit     |
+|Jungle Onion    |Veggie    |
+|Pumpkin         |Veggie    |
+|Twinshroom      |Veggie    |
+|Powdered Cheese |Milk      |
+|Sticky Cream    |Milk      |
+|Hopi            |Drink     |
++----------------+----------+
+
++----------------+-------------+
+|Combination     |Effect       |
++----------------+-------------+
+|Meat + Meat     |Health +10   |
+|Meat + Bran     |Health +10   |
+|Meat + Fish     |Stamina -25  |
+|Meat + Fruit    |No effect    |
+|Meat + Veggie   |Stamina +25  |
+|Meat + Milk     |No effect    |
+|Meat + Drink    |Sm Atk Boost |
+|Bran + Bran     |Stamina +25  |
+|Bran + Fish     |Health +10   |
+|Bran + Fruit    |Ice Res +3   |
+|Bran + Veggie   |Stamina -25  |
+|Bran + Milk     |No effect    |
+|Bran + Drink    |Stamina -25  |
+|Fish + Fish     |Sm Atk Boost |
+|Fish + Fruit    |Health -10   |
+|Fish + Veggie   |Stamina +25  |
+|Fish + Milk     |No effect    |
+|Fish + Drink    |Defense +10  |
+|Fruit + Veggie  |Health +20   |
+|Fruit + Milk    |Stamina +25  |
+|Fruit + Drink   |Health -10   |
+|Veggie + Veggie |Defense +10  |
+|Veggie + Milk   |No effect    |
+|Veggie + Drink  |No effect    |
+|Milk + Milk     |No effect    |
+|Milk + Drink    |Health -10   |
++----------------+-------------+
+
+==================================================
+
+           ***o---------------o***
+           |  |     -II-      |  |
+           |  |  Two Felynes  |  |
+           |  |               |  |
+           ***o---------------o***
+
+
++----------------+----------+
+|Food Name       |Food Type |
++----------------+----------+
+|Cubesteak       |Meat      |
+|Spicy Sausage   |Meat      |
+|Wild Bacon      |Meat      |
+|Hardtack        |Bran      |
+|Snowy Rice      |Bran      |
+|Snake Salmon    |Fish      |
+|Tuna Head       |Fish      |
+|Fruity Jam      |Fruit     |
+|Northern Orange |Fruit     |
+|Mild Herb       |Veggie    |
+|Sliced Cactus   |Veggie    |
+|Spotted Onion   |Veggie    |
+|Young Potato    |Veggie    |
+|Aged Cheese     |Milk      |
+|Carefree Yogurt |Milk      |
+|Furahiya Cola   |Drink     |
++----------------+----------+
+
++----------------+---------------------------+
+|Combination     |Effect                     |
++----------------+---------------------------+
+|Meat + Meat     |Health +20                 |
+|Meat + Bran     |Defense +15                |
+|Meat + Fish     |No effect                  |
+|Meat + Fruit    |Fire Res +3                |
+|Meat + Veggie   |Stamina -25                |
+|Meat + Milk     |Health -20                 |
+|Meat + Drink    |Health +10                 |
+|Bran + Bran     |Stamina +25                |
+|Bran + Fish     |Health +20                 |
+|Bran + Fruit    |No effect                  |
+|Bran + Veggie   |Sm Atk Boost               |
+|Bran + Milk     |No effect                  |
+|Bran + Drink    |Health +10, Thunder Res +3 |
+|Fish + Fish     |Sm Atk Boost               |
+|Fish + Fruit    |No effect                  |
+|Fish + Veggie   |No effect                  |
+|Fish + Milk     |Stamina -25                |
+|Fish + Drink    |Stamina +25                |
+|Fruit + Fruit   |Health -20                 |
+|Fruit + Veggie  |Defense +10, Health +10    |
+|Fruit + Milk    |Water Res +3               |
+|Fruit + Drink   |No effect                  |
+|Veggie + Veggie |Defense +10                |
+|Veggie + Milk   |Health -10, Stamina -25    |
+|Veggie + Drink  |Stamina +25                |
+|Milk + Milk     |Stamina +25, Sm Atk Boost  |
+|Milk + Drink    |Ice Res +3                 |
++----------------+---------------------------+
+
+=================================================
+
+
+           ***o---------------o***
+           |  |     -III-     |  |
+           |  | Three Felynes |  |
+           |  |               |  |
+           ***o---------------o***
+
+
++----------------+----------+
+|Food Name       |Food Type |
++----------------+----------+
+|Great Mutton    |Meat      |
+|Juicy Rib Roast |Meat      |
+|Meatwagon       |Meat      |
+|Kut Beans       |Bran      |
+|Tasty Rice      |Bran      |
+|Warwheat        |Bran      |
+|Curved Shrimp   |Fish      |
+|Horseshoe Crab  |Fish      |
+|Spiky Blowfish  |Fish      |
+|Frozen Apples   |Fruit     |
+|Cudgel Onion    |Veggie    |
+|Spicy Carrots   |Veggie    |
+|Western Parsley |Veggie    |
+|Buffalo Butter  |Milk      |
+|Chili Cheese    |Milk      |
+|Panish          |Drink     |
++----------------+----------+
+
++--------------- +--------------------------+
+|Combination     |Effect                    |
++----------------+--------------------------+
+|Meat + Meat     |Health +20                |
+|Meat + Bran     |No effect                 |
+|Meat + Fish     |Thunder Res +3            |
+|Meat + Fruit    |Lg Atk Boost              |
+|Meat + Veggie   |Health +10, Sm Atk Boost  |
+|Meat + Milk     |No effect                 |
+|Meat + Drink    |Stamina -25               |
+|Bran + Bran     |Stamina +25               |
+|Bran + Fish     |No effect                 |
+|Bran + Fruit    |No effect                 |
+|Bran + Veggie   |Stamina +50               |
+|Bran + Milk     |Defense +10, Stamina +25  |
+|Bran + Drink    |Defense +15, Water Res +3 |
+|Fish + Fish     |Sm Atk Boost              |
+|Fish + Fruit    |Stamina +25, Fire Res +3  |
+|Fish + Veggie   |Health -30                |
+|Fish + Milk     |Health +30                |
+|Fish + Drink    |Stamina -25               |
+|Fruit + Veggie  |Health -30                |
+|Fruit + Milk    |Health -20, Stamina -25   |
+|Fruit + Drink   |Sm Atk Boost              |
+|Veggie + Veggie |Defense +10               |
+|Veggie + Milk   |Health +10, Defense +15   |
+|Veggie + Drink  |No effect                 |
+|Milk + Milk     |Health +20, Ice Res +3    |
+|Milk + Drink    |No effect                 |
++----------------+--------------------------+
+
+================================================
+
+
+           ***o--------------o***
+           |  |     -IV-     |  |
+           |  | Four Felynes |  |
+           |  |              |  |
+           ***o--------------o***
+
+
++---------------+----------+
+|Food Name      |Food Type |
++---------------+----------+
+|Dragon Foot    |Meat      |
+|Gator Ribmeat  |Meat      |
+|Princess Pork  |Meat      |
+|Ancient Beans  |Bran      |
+|Kokoto Rice    |Bran      |
+|Megabagel      |Bran      |
+|King Squid     |Fish      |
+|Queen Shrimp   |Fish      |
+|Pink Caviar    |Fish      |
+|Burning Mango  |Fruit     |
+|Lifejam        |Fruit     |
+|Cannon Lettuce |Veggie    |
+|Rare Onion     |Veggie    |
+|Scented Celery |Veggie    |
+|Royale Cheese  |Milk      |
+|Blessed Wine   |Drink     |
++---------------+----------+
+
++----------------+----------------------------+
+|Combination     |Effect                      |
++----------------+----------------------------+
+|Meat + Meat     |Health +30                  |
+|Meat + Bran     |Stamina -50                 |
+|Meat + Fish     |Stamina +25, Water Res +5   |
+|Meat + Fruit    |Sm Atk Boost, Fire Res +5   |
+|Meat + Veggie   |No effect                   |
+|Meat + Milk     |Health +40                  |
+|Meat + Drink    |Defense +10, Ice Res +5     |
+|Bran + Bran     |Stamina +50                 |
+|Bran + Fish     |Health -30, Stamina -25     |
+|Bran + Fruit    |Health -40                  |
+|Bran + Veggie   |Sm Atk Boost, Stamina +25   |
+|Bran + Milk     |Health +30, Sm Atk Boost    |
+|Bran + Drink    |No effect                   |
+|Fish + Fish     |Lg Atk Boost                |
+|Fish + Fruit    |Defense +20                 |
+|Fish + Veggie   |Health +20, Dragon Res +3   |
+|Fish + Milk     |Defense +10, Thunder Res +5 |
+|Fish + Drink    |No effect                   |
+|Fruit + Fruit   |Lg Atk Boost, Health +10    |
+|Fruit + Veggie  |Stamina +50                 |
+|Fruit + Milk    |No effect                   |
+|Fruit + Drink   |Health +20, Defense +15     |
+|Veggie + Veggie |Defense +15                 |
+|Veggie + Milk   |No effect                   |
+|Veggie + Drink  |Health +40                  |
+|Milk + Drink    |Health +20, Stamina +25     |
++----------------+----------------------------+
+
+================================================
+
+
+            ***o--------------o***
+            |  |     -V-      |  |
+            |  | Five Felynes |  |
+            |  |              |  |
+            ***o--------------o***
+
+
++-----------------+----------+
+|Food Name        |Food Type |
++-----------------+----------+
+|Bigmeat          |Meat      |
+|Dragon Head      |Meat      |
+|Dragon Tail      |Meat      |
+|King Turkey      |Meat      |
+|Gold Rice        |Bran      |
+|Heaven Bread     |Bran      |
+|Soul Beans       |Bran      |
+|1000-Year Crab   |Fish      |
+|Crimson Seabream |Fish      |
+|Hairy Tuna       |Fish      |
+|Emerald Durian   |Fruit     |
+|Demonshroom      |Veggie    |
+|Fatty Tomato     |Veggie    |
+|King Truffle     |Veggie    |
+|Kirin Cheese     |Milk      |
+|Goldenfish Brew  |Drink     |
++-----------------+----------+
+
++----------------+-----------------------------+
+|Combination     |Effect                       |
++----------------+-----------------------------+
+|Meat + Meat     |Health +30                   |
+|Meat + Bran     |No effect                    |
+|Meat + Fish     |Health +20, Stamina +50      |
+|Meat + Fruit    |Health -40, Stamina -25      |
+|Meat + Veggie   |Health +40, Lg Atk Boost     |
+|Meat + Milk     |Stamina +25, Defense +15     |
+|Meat + Drink    |Sm Atk Boost, Fire Res +5    |
+|Bran + Bran     |Stamina +50                  |
+|Bran + Fish     |Health +40, Defense +20      |
+|Bran + Fruit    |Health +30, Stamina +25      |
+|Bran + Veggie   |Sm Atk Boost, Stamina +25    |
+|Bran + Milk     |Health -50                   |
+|Bran + Drink    |Health +20, Water Res +5     |
+|Fish + Fish     |Lg Atk Boost                 |
+|Fish + Fruit    |Stamina +50, Defense +10     |
+|Fish + Veggie   |Defense +10, Ice Res +5      |
+|Fish + Milk     |No effect                    |
+|Fish + Drink    |No effect                    |
+|Fruit + Veggie  |No effect                    |
+|Fruit + Milk    |Health +50, Dragon Res +5    |
+|Fruit + Drink   |Sm Atk Boost, Thunder Res +5 |
+|Veggie + Veggie |Defense +15                  |
+|Veggie + Milk   |Stamina +25, Defense +20     |
+|Veggie + Drink  |Stamina -50                  |
+|Milk + Drink    |Health +50, Stamina +50      |
++----------------+-----------------------------+
+
++=============================================================================+
+|                                                                             |
+|                            Felyne Chef Specifics                            |
+|                                                                             |
++-----------------------------------------------------------------------------+
+
+           ***o---------------o***
+           |  |     -VI-      |  |
+           |  |  Chef Level   |  |
+           |  |               |  |
+           ***o---------------o***
+
+The level of your Felyne Chef will affect three different things.  The first,
+and most important, is the number of ingredients you get to choose from when
+deciding what to eat.
+
+NOTE: Keep in mind that only your first Felyne Chef will affect this.  Also,
+see how when you sit down to eat, there's two pages of ingredient space?  When
+the first Felyne Chef on your list is at level 9, all of the slots will be
+open.  In the meantime, the number of open slots will increase as the Chef
+levels up.
+
+Every time you sit down to eat, the computer will take into account the
+number of slots you have available for ingredients and will randomly 
+generate ingredients to fill the list (without repetition).  This means that
+the only way to guarantee that you will consistently get the same food
+ingredients, and thusly be able to consistently get the same buff, is to have
+your first Felyne Chef be level 9, thus always having access to every
+ingredient (albeit in a random order).  Already, you can see that Felyne Chef
+level is important if you're trying to regularly obtain effective buffs.
+
+The second thing that a Felyne Chef's level affects is how often he'll
+activate one of his Whim skills.  There are actually two things that affect
+the odds of a Chef's Whim skill activating, but I'll delve into that in 
+Section VIII.
+
+The last thing that a Felyne's level affects is his success rate with
+cooking your meat/fish for you.  As you progress further in the game, this
+will become increasingly important to you.  You'll especially appreciate it
+if you've been playing the series for a while.  For the first time in the
+series, MHF2 has eliminated the need for meat runs altogether.  Now, with 
+the Granny item download, you can buy Raw Meat, and with the Felyne Chefs you
+can have it cooked for you.  No need to ever bother with going on a quest and
+manually cooking steaks the slow way ever again.  A level 9 Felyne Chef will
+rarely mess up your food, and most of the time will hook you up with some
+Gourmet Steaks as well.
+
+==================================================
+
+           ***o---------------o***
+           |  |     -VII-     |  |
+           |  |   Meat/Fish   |  |
+           |  |    Cooking    |  |
+           ***o---------------o***
+
+Felynes can cook Raw Meat for you, and a number of different types of fish.
+The Raw Meat will turn into Rare, Burnt, Well-Done, or Gourmet Steaks.
+The cooked fish basically work as Immunizers with a Well-Done Steak-length
+consumption animation--nothing too special.  There are other benefits too,
+but I won't get into that here.  Following, however, is a list of the
+different types of cookable fish, thanks to Arkem3.
+
++-----------------+----------+
+|Fish             |Cookable? |
++-----------------+----------+
+|Bomb Arrowana    |Yes       |
+|Burst Arrowana   |Yes       |
+|Knife Mackerel   |Yes       |
+|Pin Tuna         |Yes       |
+|Rumblefish       |Yes       |
+|Springnight Carp |Yes       |
+|Sushifish        |Yes       |
+|Ancient Fish     |No        |
+|Glutton Tuna     |No        |
+|Scatterfish      |No        |
+|Sleepyfish       |No        |
+|Small Goldenfish |No        |
++-----------------+----------+
+
+After you pay a cat a given amount of z to cook your food for you, you'll 
+have to go on a quest and come back later.  Afterwards, you'll be able 
+to pick up your food.  Remember, the higher the Felyne Chef level, the more 
+likely they are to cook your food well.  It's as simple as that.  Also keep
+in mind that they will only cook up to 10 of a single item at a time.
+
+==================================================
+
+           ***o---------------o***
+           |  |    -VIII-     |  |
+           |  |  Felyne Whim  |  |
+           |  |    skills     |  |
+           ***o---------------o***
+
+First of all, allow me to say that this is about HOW to get Whim skills, NOT
+which ones are the best, or which ones do what.  Which ones are the best is
+something you should decide for yourself, and if you want to know which ones
+do what, then KingOfMH has already written a thorough guide just for you.
+With that said, let's start from the beginning.
+
+Each cat comes with three random skills (randomly determined when he spawned
+in the list of cats available for hire, that is).  After you have your 
+Felyne(s) make a meal for you by combining ingredients, there will be a
+chance that each Felyne that cooked for you will bestow you with an
+additional ability by activating one of its Felyne Whim skills.
+
+When a Felyne's Whim skill activates, the kitty will buff you with one of the
+three skills on its list.  There is no way of choosing which one activates,
+and there is no way of making any one particular skill of the three more
+likely to be chosen than the other two.
+
+From what I understand, a Felyne's Whim skill will not activate unless at
+least one of its ingredient specialties coincides with at least one of the 
+ingredients you just cooked food with.  
+
+For example, let's say you have three Felynes working in your kitchen, and you
+just combined Kut Beans with Buffalo Butter for Defense +10 and Stamina +25.
+Now let's say that all three of the cats that just made you dinner specialize
+in Meat, Fruit, Vegetable, Drink, Fish--anything but Bran or MIlk.  In this
+case, none of your Felynes' Whim skills will activate.
+
+However, let's say that one of your Felynes has a specialty in either Bran or
+Milk.  Now there is a >0% chance that that particular Felyne's Whim skill will
+activate.  How much greater than 0%?  Well, that depends.  If the cat is level
+9, and has 3 stars in Bran and Milk, then the odds are in your favor.  If the
+cat is only level 1 and only has one star in either Bran OR Milk, well... the
+odds are pretty slim.
+
+tl;dr?  Here's a summary. The two things that affect a Felyne Chef's odds of 
+one of his Whim skills activating are ingredient specialization and level.  At
+least one of the two ingredients that you choose to combine MUST also be one
+of the ingredients that is listed on your Felyne Chef's specs, or NO SKILLS
+WILL ACTIVATE.  If your Felyne Chef has two ingredients that match up with
+both of the ingredients that you just combined, the activation odds will go up.
+If both of those listed ingredients have three stars, and the Felyne is at
+level 9, then the odds have been maximized in your favor.  However, you CANNOT
+alter what your cat specializes in, nor can you alter the number of stars
+associated with them.
+
+===============================================================================
+
+           ***o---------------o***
+           |  |               |  |
+           |  |    Credits    |  |
+           |  |               |  |
+           ***o---------------o***
+
+This is where I thank Thraadash for his invaluable aid.  He politely informed
+me on the message boards that Meat + Meat with two felynes gives Health +20.
+Don't worry, I tested it myself, and it's correct.  Thank you again, 
+Thraadash.
+
+Thanks also go to, again, Arkem3, for e-mailing me the Cookable Fish list.
+
+           ***o---------------o***
+           |  |               |  |
+           |  | Contact Info  |  |
+           |  |               |  |
+           ***o---------------o***
+
+If you see any mistakes or discover something important that somehow relates
+to this guide, then please feel free to contact me.  Credit will be given
+where credit is due.
+
+GameFAQ: VGProdigy
+E-mail : palrappy1@yahoo.com
+
+==============================================================================
+
+Original Date of Submission: June 27, 2009.
+
+Copyright 2009 Steven Bolin (VGProdigy).  All rights reserved.
+
+This may not be reproduced under any circumstances except for personal,
+private use. It may not be placed on any web site or otherwise distributed
+publicly without advance written permission. Use of this guide on any other
+web site or as a part of any public display is strictly prohibited, and a
+violation of copyright.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+List of sites with permission to host or link to this FAQ:
+ - www.gamefaqs.com and all of its affiliates.
+
+One final statement is in order...
+
+Thank you everyone, for playing Monster Hunter, and making Capcom bring this
+amazing game overseas, thus making this guide possible.  Let's continue to 
+support Capcom in hopes that they'll make more Monster Hunter games in the
+future, leading to more monsters, more weapons--and most importantly--more
+people to play with all over the world!  Now with that said...
+
+Go hunt down some dragons.
 Testing
 </body>
 </html>
