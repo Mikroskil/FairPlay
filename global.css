@@ -1,0 +1,51 @@
+body {
+    	font-family: Times New Roman;
+    	color: #363636;
+	background : #F7F7FF;
+}
+
+p {
+	margin:2;
+}
+
+canvas {
+    background-color: #FFF;
+    border: solid thin #CCC;
+    border-radius: 4px;
+}
+
+.container{
+	background: #CCCCCC;
+    	border-radius: 5px 5px 5px 5px;
+    	margin-left: 10%;
+	margin-right: 10%;
+	min-height: 50%;
+    	clear: both;
+    	padding: 3px 20px;
+    	display: block;
+}
+
+#contain {
+	background : white;
+    	border-radius: 10px 10px 10px 10px;
+	min-height: 35%;
+	clear : both;
+	padding: 10px 15px;
+	display: block;
+}
+
+#contain p {
+	color: #363636;
+	font-size:15px;
+}
+
+.break {
+    	clear: both;
+}
+
+hr {
+	align : center;
+	color : #CCC;
+	size : 1;
+	width : 100%;
+}
